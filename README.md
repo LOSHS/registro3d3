@@ -26,7 +26,7 @@ Esta sería la pantalla que vera el servidor público / obligado, misma en la qu
 <br/>
 REST Endpoint<br/>
 <br/>
-/registro3de3/webapi/users/ GET obtener datos de todos los usuarios activos <br/>
+<a>/registro3de3/webapi/users/</a> GET obtener datos de todos los usuarios activos <br/>
 /registro3de3/webapi/users/{id} GET obtener datos de un usuarios activo<br/>
 /registro3de3/webapi/users/ POST crear un usuario<br/>
 /registro3de3/webapi/users/{id}/toggleActiveStatus") cambiar estatus de usuario<br/>
