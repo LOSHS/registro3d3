@@ -27,17 +27,17 @@ Esta sería la pantalla que vera el servidor público / obligado, misma en la qu
 REST Endpoint<br/>
 <br/>
 <a href="#">/registro3de3/webapi/users/</a> GET obtener datos de todos los usuarios activos <br/>
-/registro3de3/webapi/users/{id} GET obtener datos de un usuarios activo<br/>
-/registro3de3/webapi/users/ POST crear un usuario<br/>
-/registro3de3/webapi/users/{id}/toggleActiveStatus") cambiar estatus de usuario<br/>
-/registro3de3/webapi/users/{id} DELETE borrar (borrado lógico) un usuario<br/>
+<a href="#">/registro3de3/webapi/users/{id}</a> GET obtener datos de un usuarios activo<br/>
+<a href="#">/registro3de3/webapi/users/</a> POST crear un usuario<br/>
+<a href="#">/registro3de3/webapi/users/{id}/toggleActiveStatus</a> cambiar estatus de usuario<br/>
+<a href="#">/registro3de3/webapi/users/{id}</a> DELETE borrar (borrado lógico) un usuario<br/>
 <br/>
-/registro3de3/webapi/statements/fromUser/{id} obtener datos de las declaraciones de un usuario específico<br/>
-/registro3de3/webapi/statements/ GET obtener datos de todas los declaraciones<br/>
-/registro3de3/webapi/statements/{id} GET obtener datos de una declaración<br/>
-/registro3de3/webapi/statements/ POST crear una declaración en la base de datos<br/>
-/registro3de3/webapi/statements/{id}/toggleActiveStatus") cambiar estatus de declaración<br/>
-/registro3de3/webapi/statements/{id} DELETE borrar (borrado lógico) una declaracion<br/>
+<a href="#">/registro3de3/webapi/statements/fromUser/{id}</a> obtener datos de las declaraciones de un usuario específico<br/>
+<a href="#">/registro3de3/webapi/statements/</a> GET obtener datos de todas los declaraciones<br/>
+<a href="#">/registro3de3/webapi/statements/{id}</a> GET obtener datos de una declaración<br/>
+<a href="#">/registro3de3/webapi/statements/</a> POST crear una declaración en la base de datos<br/>
+<a href="#">/registro3de3/webapi/statements/{id}/toggleActiveStatus</a> cambiar estatus de declaración<br/>
+<a href="#">/registro3de3/webapi/statements/{id}</a> DELETE borrar (borrado lógico) una declaracion<br/>
 <br/>
-/registro3de3/webapi/file/download/ POST "application/json, application/x-www-form-urlencoded" usando CMIS con Alfresco server descarga el archivo de Alfresco como Stream y envía ese stream al usuario por el navegador web, por lo que el navegador descargará el archivo<br/>
-/registro3de3/webapi/file/upload/ POST "multipart/form-data" usando CMIS con Alfresco server carga el archivo al servidor de Alfresco, hay un modulo con Apache Tika que válida el contenido del stream del archivo más allá de que tenga una extensión incorrecta, o carezca de ella (.pdf, .doc, .xls, .jpg, etc)<br/>
+<a href="#">/registro3de3/webapi/file/download/</a> POST "application/json, application/x-www-form-urlencoded" usando CMIS con Alfresco server descarga el archivo de Alfresco como Stream y envía ese stream al usuario por el navegador web, por lo que el navegador descargará el archivo<br/>
+<a href="#">/registro3de3/webapi/file/upload/</a> POST "multipart/form-data" usando CMIS con Alfresco server carga el archivo al servidor de Alfresco, hay un modulo con Apache Tika que válida el contenido del stream del archivo más allá de que tenga una extensión incorrecta, o carezca de ella (.pdf, .doc, .xls, .jpg, etc)<br/>
