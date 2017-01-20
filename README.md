@@ -20,6 +20,7 @@ Este es uno de los tantos reportes, para ejemplo del prototipo, pusimos del de i
 Esta sería la pantalla que vera el servidor público / obligado, misma en la que puede generar sus declaraciones ( patrimoniales, fiscales y de conflicto de intereses), cambiar su contraseña, solicitar acuses de recibo, solicitar cambios, etc.<br/>
 <br/>
 Existe además una funcionalidad en el prototipo para que la interfaz muestre diferentes aspecos o elementos, dependiendo del rol del usuario (Ver Como)<br/>
+Algunas funciones como la de Enviar Aviso (envío de correos masivos) se pueden acceder desde distintos módulos para la facilidad de uso<br/>
 <br/>
 #JAVA, #JEE3, #Jersey, #JAX-RS, #REST, #Alfresco (CMIS API), #Bootstrap, #JavaScript, #JQuery, #KnockoutJS, #CSS, #HTML5 & #PostgreSQL, #ApacheTika<br/>
 <br/>
