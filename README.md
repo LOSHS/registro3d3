@@ -21,8 +21,8 @@ Esta sería la pantalla que vera el servidor público / obligado, misma en la qu
 <br/>
 #JAVA, #JEE3, #Jersey, #JAX-RS, #REST, #Alfresco (CMIS API), #Bootstrap, #JavaScript, #JQuery, #KnockoutJS, #CSS, #HTML5 & #PostgreSQL, #ApacheTika<br/>
 <br/>
-/registro3de3/webapi/login POST "application/json, application/x-www-form-urlencoded" Módulo de authenticación con contraseña encriptada en la base de datos, crea una sesión para el usuario en el container (WebLogic, Tomcat, Apache, Glassfish, JBoss, etc) <br/>
-/registro3de3/webapi/logout destruye la sesión de manera segura<br/>
+<a href="#">/registro3de3/webapi/login</a> POST "application/json, application/x-www-form-urlencoded" Módulo de authenticación con contraseña encriptada en la base de datos, crea una sesión para el usuario en el container (WebLogic, Tomcat, Apache, Glassfish, JBoss, etc) <br/>
+<a href="#">/registro3de3/webapi/logout</a> destruye la sesión de manera segura<br/>
 <br/>
 REST Endpoint<br/>
 <br/>
